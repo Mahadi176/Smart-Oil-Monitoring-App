@@ -1,4 +1,4 @@
-j"""
+"""
 Smart Oil Consumption Monitoring System — 100% Python build
 UI: Streamlit | DB: SQLite | ML: Scikit-learn (+ saved models via joblib)
 Charts: Plotly | Reports: fpdf2
